@@ -1,6 +1,6 @@
-# CUCM AXL API Python Script
+# Cisco UC Automation
 
-This Python script connects to a Cisco Unified Communications Manager (CUCM) CUCM 15.0.1.10000-32 using the AXL API and configure and retrieves available services and operations.
+This Python scripts connects to a Cisco Unified Communications Manager (CUCM) CUCM 15.0.1.10000-32 using the AXL API and configure and retrieves available services and operations.
 
 ## Prerequisites
 
