@@ -43,7 +43,7 @@ cucm = {
 3. Update the `cucm` dictionary with your CUCM server information.
 4. Run the script using the command:
 
-python cucm_axl_script.py
+python getoperations.py
 
 5. After running the script, a file called `output.txt` will be created, containing the available ports and operations retrieved from CUCM.
 
